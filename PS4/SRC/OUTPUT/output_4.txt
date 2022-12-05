@@ -1,0 +1,26 @@
+8
+-A OR B OR E
+-A OR B OR F
+-A OR D OR -E
+B OR D
+-A OR -B OR -D
+E
+F
+-B OR -E
+10
+B OR E
+-B OR -D
+-A OR -E OR F
+B OR F
+-A OR -B
+D OR -E
+-A OR -D OR E
+-A OR -D OR F
+-A OR D
+-B
+3
+-A OR E
+-E OR F
+-A OR F
+0
+NO

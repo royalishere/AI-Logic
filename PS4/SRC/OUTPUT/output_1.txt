@@ -1,0 +1,18 @@
+5
+-B OR C
+-A OR C
+-C OR D
+-A OR -B OR D
+-B OR -C
+6
+C
+-B OR D
+-A OR D
+-C
+-A OR -B
+-B
+3
+D
+-A
+{}
+YES
